@@ -1,0 +1,5 @@
+mlflow:
+  tracking_uri: "arn:aws:sagemaker:us-east-2:168264144360:mlflow-tracking-server/mlflow-tracker"   
+  model_name: "MyXGBoostModel"
+  #stage: "null"
+  version: "1"        

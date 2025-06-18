@@ -1,0 +1,15 @@
+# Ignore data and logs
+data/
+mlflow_logs/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large or generated files
+*.csv
+*.parquet
+*.log
+*.tmp
+
+xgb_model/
+__pycache__/
